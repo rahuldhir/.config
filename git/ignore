@@ -1,3 +1,7 @@
+# Claude Code #
+###################
+**/.claude/settings.local.json
+
 # Compiled source #
 ###################
 *.com
@@ -50,8 +54,3 @@ tags
 
 .env
 venv/
-
-# IDE #
-#######
-.idea/
-__debug_bin
