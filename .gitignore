@@ -1,0 +1,19 @@
+# zsh - history and generated files
+zsh/.zsh_history
+zsh/.zcompdump
+zsh/.zsh_sessions/
+
+# nvim - generated LSP/plugin files
+nvim/.luarc.json
+nvim/.neoconf.json
+nvim/lazy-lock.json
+
+# karabiner - automatic backups
+karabiner/automatic_backups/
+
+# tmux - plugin manager and resurrect data
+tmux/plugins/
+tmux/resurrect/
+
+# macOS
+.DS_Store
